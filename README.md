@@ -36,3 +36,6 @@ def openaitts(
 ......skip......
 
 ```
+
+測試使用的VITS模型及執行端是來自以下"【AI东雪莲2.0（重制版）】在线语音合成"的本地部屬版
+https://huggingface.co/spaces/XzJosh/Azuma-Bert-VITS2-2.3/tree/main
