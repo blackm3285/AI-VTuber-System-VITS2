@@ -25,4 +25,8 @@ def openaitts(
         style_text="",      # Auxiliary text for style (optional)
         style_weight=0.7,   # Weight of the auxiliary text (optional)
         ):
+
+    try:
+        # Gradio Client initialization
+        client = Client("http://127.0.0.1:7860/")
 ```
