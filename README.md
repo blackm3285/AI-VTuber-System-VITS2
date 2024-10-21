@@ -39,3 +39,17 @@ def openaitts(
 
 測試使用的VITS模型及執行端是來自以下"【AI东雪莲2.0（重制版）】在线语音合成" 的本地部屬版, 供各位參考
 https://huggingface.co/spaces/XzJosh/Azuma-Bert-VITS2-2.3/tree/main
+
+# How to install
+
+1.下載原作者提供的1.3整合包
+
+2.下載此處的 .\TextToSpeech\OpenAITTS.py
+
+3.到下載好的 .\GUI_control_panel\runtime 裡開啟cmd執行 python -m pip install gradio==4.44.1
+
+4.執行你的vits2客戶端 (app.py)
+
+5.切換GUI裡的EdgeTTS到OpenAI TTS
+
+6.完成
