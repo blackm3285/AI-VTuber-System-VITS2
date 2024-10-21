@@ -48,7 +48,7 @@ https://huggingface.co/spaces/XzJosh/Azuma-Bert-VITS2-2.3/tree/main
 
 3.到下載好的 .\GUI_control_panel\runtime 裡開啟cmd執行 python -m pip install gradio==4.44.1
 
-4.執行你的vits2客戶端 (app.py)
+4.執行你的 vits2 (app.py)
 
 5.切換GUI裡的EdgeTTS到OpenAI TTS
 
