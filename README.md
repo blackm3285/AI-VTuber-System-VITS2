@@ -1,5 +1,5 @@
 # AI-VTuber-System-VITS2
-Replaced OpenAI TTS to local Bert-VITS2-2.3
+Replaced OpenAI TTS to local Bert-VITS2-2.3 Server
 
 You can edit vits api prompt in ./TextToSpeech/OpenAITTS.py
 
