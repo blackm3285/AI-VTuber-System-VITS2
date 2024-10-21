@@ -3,6 +3,7 @@ Replaced OpenAI TTS to local Bert-VITS2-2.3
 
 You can edit vits api prompt in ./TextToSpeech/OpenAITTS.py
 
+```
 # Updated openaitts function using Gradio Client instead of OpenAI API
 def openaitts(
         text="",
@@ -24,3 +25,4 @@ def openaitts(
         style_text="",      # Auxiliary text for style (optional)
         style_weight=0.7,   # Weight of the auxiliary text (optional)
         ):
+```
