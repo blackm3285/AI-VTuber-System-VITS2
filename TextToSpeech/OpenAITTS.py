@@ -23,7 +23,6 @@ openaitts_parameters = {
 # Updated openaitts function using Gradio Client instead of OpenAI API
 def openaitts(
         text="",
-
         output_path="Audio/output_openaitts_01.wav",
         model="tts-1",    # Kept in function signature, not used
         voice="alloy",    # Kept in function signature, not used
