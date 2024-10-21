@@ -44,7 +44,7 @@ https://huggingface.co/spaces/XzJosh/Azuma-Bert-VITS2-2.3/tree/main
 
 1.下載原作者提供的1.3整合包
 
-2.下載此處的 .\TextToSpeech\OpenAITTS.py
+2.下載此處的 .\TextToSpeech\OpenAITTS.py 並覆蓋原本的
 
 3.到下載好的 .\GUI_control_panel\runtime 裡開啟cmd執行 python -m pip install gradio==4.44.1
 
